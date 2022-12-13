@@ -1,0 +1,3 @@
+package org.cabradati.bettermonsters.monstros.esqueletos
+
+class EsqueletoSpawnEvent

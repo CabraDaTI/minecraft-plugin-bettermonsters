@@ -1,0 +1,8 @@
+author: Erick Lemos
+name: BetterItens
+version: 10.0
+main: org.cabradati.bettermonsters.App
+api-version: 1.19
+load: STARTUP
+libraries:
+  - org.jetbrains.kotlin:kotlin-stdlib:1.7.20
